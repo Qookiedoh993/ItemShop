@@ -1,4 +1,4 @@
-CID_703_Athena_Commando_M_Cyclone, 0
+CID_313_Athena_Commando_M_KpopFashion, 0
 CID_530_Athena_Commando_F_BlackMonday_1BV6J, 2000
 EID_IndigoApple, 1200
 na
